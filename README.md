@@ -1,0 +1,1 @@
+A super basic CLI application for downloading the latest Minecraft Paper server using their V2 API
